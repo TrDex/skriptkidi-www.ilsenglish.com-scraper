@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Simple script for bretuforcing answers and scraping their text representation
+Simple script for answer selection and scraping their text representation
 from https://www.ilsenglish.com/quicklinks/test-your-english-level
 ∞
 Created by Mykola Soloduha (mykola.soloduha@gmail,com),
